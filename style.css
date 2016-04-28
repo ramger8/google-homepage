@@ -1,0 +1,92 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    display: inline;
+}
+#logo{
+  display: block;
+  margin-top: 109px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 92px;
+  width: 272px;
+}
+
+input{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#searchbox{
+    height: 26px;
+    width: 566px;
+}
+
+#divb{
+  text-align: center;
+}
+.buttons{
+  display: inline-block;
+  height: 36px;
+  min-width: 54px;
+  background-color: #f2f2f2;
+  font-size: 13px;
+  font-family: arial;
+  font-weight: bold;
+  color: #757575;
+  border: 1px solid #f2f2f2
+}
+
+#navbar{
+  text-align: right;
+  width: 1602px;
+  height: 30px;
+}
+
+.barlinks{
+  font-family: Liberation Sans;
+  font-size: 13px;
+  line-height: 24px;
+  color: rgb(34, 34, 34);
+  padding: 4px;
+  text-decoration: none
+}
+
+#signin{
+  border: 5px solid rgb(66, 133, 244);
+  border-width: 4px 8px 4px 8px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(66, 133, 244)
+}
+
+#footer{
+  text-align: left;
+  padding-top: 7px;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 30px;
+  background-color: #f2f2f2;
+  border: 1px solid rgb(180, 180, 180);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+#footer a{
+  color: rgb(34, 34, 34);
+  font-family: arial,sans-serif;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+#llinks{
+  display: inline-block;
+  float: right;
+}
